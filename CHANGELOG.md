@@ -1,3 +1,13 @@
+<a name="0.5.1"></a>
+## [0.5.1](https://github.com/justindujardin/ng2-material/compare/v0.5.0...v0.5.1) (2016-07-27)
+
+
+### Features
+
+* **build:** update npm package for example site during build ([dbfc4e8](https://github.com/justindujardin/ng2-material/commit/dbfc4e8))
+
+
+
 <a name="0.5.0"></a>
 # [0.5.0](https://github.com/justindujardin/ng2-material/compare/v0.4.1...v0.5.0) (2016-06-12)
 
